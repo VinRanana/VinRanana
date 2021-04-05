@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Davinder. &nbsp;Welcome to my page!
 
-<img align="right" src="./animation.gif" height=320>
+<img align="right" src="./animation.gif" height=300>
 
 ### What I'm up to:
 &emsp;🔭 &ensp;I’m currently working on [Codehort](https://github.com/olimorri/codehort)<br>

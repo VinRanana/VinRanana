@@ -1,26 +1,27 @@
-### 👋 Hello there, I'm Davinder. Welcome to my page!
+### 👋 Hello there, I'm Davinder. &nbsp;Welcome to my page!
 
 ### What I'm up to
 
 - 🔭 I’m currently working on [Codehort](https://github.com/olimorri/codehort), an e-learning platform with a retro twist
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davinder-rana/).
+- ⚡ Fun fact: I love crunchy peanut butter
+
 <!-- 
-- 🌱 I’m currently learning The Open Sicilian ♟
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
 
 ### Other interests:
 
-- ✈️ Travelling
-- 📚 Novels
-- ⛳ Playing 18 holes
+- 🎸 Music
+- ♟ Chess
+- 🕹 Computer Games
+- 🚀 New experiences
 
--->
-
-### Some thechnologies that I'm experienced with:
+### Some technologies I'm experienced with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square">
@@ -45,7 +46,3 @@
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />  
 </p>
-<!-- Add Koa (Kaggle) -->
-
-
-You can find me on LinkedIn [HERE](https://www.linkedin.com/in/davinder-rana/).

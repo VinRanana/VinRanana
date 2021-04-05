@@ -1,8 +1,9 @@
 ### 👋 Hello there, I'm Davinder. &nbsp;Welcome to my page!
 
+<img align="right" src="./animation.gif" height=320>
+
 ### What I'm up to:
 &emsp;🔭 &ensp;I’m currently working on [Codehort](https://github.com/olimorri/codehort), an e-learning platform with a retro twist<br>
-<img align="right" src="./animation.gif" height=320>
 &emsp;🌱 &ensp;I’m currently learning Flutter<br>
 &emsp;📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/davinder-rana/)<br>
 &emsp;⚡ &ensp;Fun fact: I love crunchy peanut butter
@@ -21,7 +22,7 @@
 &emsp;🚀 &ensp;New experiences
 
 ### Some technologies I'm experienced with:
-<p>
+<p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />

@@ -1,11 +1,10 @@
 ### 👋 Hello there, I'm Davinder. &nbsp;Welcome to my page!
 
 ### What I'm up to
-
-- 🔭 I’m currently working on [Codehort](https://github.com/olimorri/codehort), an e-learning platform with a retro twist
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davinder-rana/).
-- ⚡ Fun fact: I love crunchy peanut butter
+&ensp;🔭 &ensp;I’m currently working on [Codehort](https://github.com/olimorri/codehort), an e-learning platform with a retro twist<br>
+&ensp;🌱 &ensp;I’m currently learning Flutter<br>
+&ensp;📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/davinder-rana/)<br>
+&ensp;⚡ &ensp;Fun fact: I love crunchy peanut butter
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
@@ -16,10 +15,10 @@
 
 ### Other interests:
 
-- 🎸 Music
-- ♟ Chess
-- 🕹 Computer Games
-- 🚀 New experiences
+&ensp;🎸 &ensp;Music<br>
+&ensp;♟ &ensp;Chess<br>
+&ensp;🕹 &ensp;Computer Games<br>
+&ensp;🚀 &ensp;New experiences
 
 ### Some technologies I'm experienced with:
 <p>

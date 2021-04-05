@@ -2,6 +2,7 @@
 
 ### What I'm up to:
 &emsp;🔭 &ensp;I’m currently working on [Codehort](https://github.com/olimorri/codehort), an e-learning platform with a retro twist<br>
+<img align="right" src="./animation.gif" height=320>
 &emsp;🌱 &ensp;I’m currently learning Flutter<br>
 &emsp;📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/davinder-rana/)<br>
 &emsp;⚡ &ensp;Fun fact: I love crunchy peanut butter

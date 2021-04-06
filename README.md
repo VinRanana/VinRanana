@@ -19,6 +19,7 @@
 &emsp;🎸 &ensp;Music<br>
 &emsp;♟ &ensp;Chess<br>
 &emsp;🕹 &ensp;Computer Games<br>
+&emsp;📖 &ensp;Learning (anything!)<br>
 &emsp;🚀 &ensp;New experiences
 
 ### Some technologies I'm experienced with:

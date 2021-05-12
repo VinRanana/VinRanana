@@ -4,7 +4,7 @@
 
 ### What I'm up to:
 &emsp;🔭 &ensp;I’m currently working on [Codehort](https://github.com/olimorri/codehort)<br>
-&emsp;🌱 &ensp;I’m currently learning Flutter<br>
+&emsp;🌱 &ensp;I’m currently exploring React Native<br>
 &emsp;📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/d-rana/)<br>
 &emsp;⚡ &ensp;Fun fact: I love crunchy peanut butter
 

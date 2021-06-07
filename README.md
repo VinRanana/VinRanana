@@ -2,11 +2,11 @@
 
 <img align="right" href="https://github.com/VinRanana" src="./animation.gif" height=280>
 
-### What I'm up to:
+<!-- ### What I'm up to:
 &emsp;🔭 &ensp;I’m currently working on [Codehort](https://github.com/olimorri/codehort)<br>
 &emsp;🌱 &ensp;I’m currently exploring React Native<br>
 &emsp;📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/d-rana/)<br>
-&emsp;⚡ &ensp;Fun fact: I love crunchy peanut butter
+&emsp;⚡ &ensp;Fun fact: I love crunchy peanut butter -->
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
@@ -22,7 +22,7 @@
 &emsp;📖 &ensp;Learning (anything!)<br>
 &emsp;🚀 &ensp;New experiences
 
-### Some technologies I'm experienced with:
+### Some technologies I've tinkered with:
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&amp;logoColor=white&amp;style=flat-square">

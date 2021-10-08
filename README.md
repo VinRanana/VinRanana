@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Davinder. &nbsp;Welcome to my page!
+### 👋 Hello there, I'm Vinny. &nbsp;Welcome to my page!
 
 <img align="right" href="https://github.com/VinRanana" src="./animation.gif" height=280>
 

@@ -6,7 +6,7 @@
 &emsp; 🔭 &ensp;I’m co-creating bespoke rota software<br>
 &emsp; 🌱 &ensp;I’m currently exploring AWS<br>
 &emsp; ⚡ &ensp;Fun fact: I love crunchy peanut butter<br>
-&emsp; 📫 &ensp;How to reach me: ~~[LinkedIn](https://www.linkedin.com/in/d-rana/)~~ *(though I'm not currently looking for work)*<br>
+&emsp; 📫 &ensp;How to reach me: ~~[LinkedIn](https://www.linkedin.com/in/d-rana/)~~ *(I'm not currently looking for work)*<br>
 
 
 <!-- 

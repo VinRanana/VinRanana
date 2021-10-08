@@ -3,10 +3,11 @@
 <img align="right" href="https://github.com/VinRanana" src="./animation.gif" height=280>
 
 ### What I'm up to:
-&emsp;🔭 &ensp;I’m currently working on a bespoke rota system<br>
-&emsp;🌱 &ensp;I’m currently exploring AWS<br>
-&emsp;📫 &ensp;How to reach me: <s> [LinkedIn](https://www.linkedin.com/in/d-rana/)</s> <i>(though I'm not currently looking for work)</i><br>
-&emsp;⚡ &ensp;Fun fact: I love crunchy peanut butter
+&emsp; 🔭 &ensp;I’m co-creating bespoke rota software<br>
+&emsp; 🌱 &ensp;I’m currently exploring AWS<br>
+&emsp; ⚡ &ensp;Fun fact: I love crunchy peanut butter<br>
+&emsp; 📫 &ensp;How to reach me: ~~[LinkedIn](https://www.linkedin.com/in/d-rana/)~~ *(though I'm not currently looking for work)*<br>
+
 
 <!-- 
 - 👯 I’m looking to collaborate on ...

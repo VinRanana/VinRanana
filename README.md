@@ -1,10 +1,12 @@
-### 👋 Hello there, I'm Vinny. &nbsp;Welcome to my page!
+### 👋 Hello, I'm Vinny
 
 <img align="right" href="https://github.com/VinRanana" src="./animation.gif" height=280>
 
+<!--
 ### What I'm up to:
 &emsp; 🌱 &ensp;I’m currently exploring various new AI tools<br>
 &emsp; 💪 &ensp;I recently started indoor bouldering - so fun!<br>
+-->
 &emsp; 📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/d-rana/)<br>
 
 
@@ -16,7 +18,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-
+<!--
 ### Other interests:
 &emsp;🎸 &ensp;Music<br>
 &emsp;♟ &ensp;Chess<br>
@@ -50,3 +52,5 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />  
   <img alt="AI-tools" src="https://img.shields.io/badge/-AI tools-17202C?style=flat-square&logo=scrollreveal&logoColor=white" />
 </p>
+-->
+

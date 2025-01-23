@@ -7,7 +7,7 @@
 &emsp; 🌱 &ensp;I’m currently exploring various new AI tools<br>
 &emsp; 💪 &ensp;I recently started indoor bouldering - so fun!<br>
 -->
-&emsp; 📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/d-rana/)<br>
+&emsp; 📫 &ensp;How to reach me: [LinkedIn](https://www.linkedin.com/in/v-rana/)<br>
 
 
 <!-- 
